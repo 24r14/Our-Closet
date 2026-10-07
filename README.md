@@ -21,7 +21,7 @@ For GitHub Pages, publish from the `main` branch's root folder using the reposit
 
 Project details and collection figures come from the original `index.html` at commit `48975dca4016ff17c6a6cd8e8950f27ab5244c69`. The listed breakdown sums to **304 school supplies and 100 take-home bags**. Counts are collected materials, not students served. The portfolio owner confirmed social media operations, poster design, donation sorting, and the team's first-place group presentation. The photo depicts a team activity at Twisted Room Escapes, not a donation delivery.
 
-This website presents a project record and does not claim the donation drive remains active. Grade levels are historical. Existing Instagram and Shafer program links are retained. No contact address, leadership title, testimonial, beneficiary total, new donation location, or award certificate has been invented. The owner supplied ten photographs and the original Our Closet Canva presentation. Eight distinct images are used: the sorting session, two organized-clothing photos, one higher-resolution team photo, and four early planning documents. The other two team photos are near-duplicates and are not displayed. Poster files and recognition evidence have not yet been supplied.
+This website presents a project record and does not claim the donation drive remains active. Grade levels are historical. Existing Instagram and Shafer program links are retained. No contact address, leadership title, testimonial, beneficiary total, new donation location, or award certificate has been invented. The owner supplied ten photographs and the original Our Closet Canva presentation. Eight distinct images are used: the sorting session, two organized-clothing photos, one higher-resolution team photo, and four early planning documents. The other two team photos are near-duplicates and are not displayed. Poster files and independent confirmation of the presentation ranking have not yet been supplied.
 
 ## Strengthen the portfolio with original materials
 
@@ -39,3 +39,9 @@ Semantic headings and tables, keyboard skip link, visible focus, a mobile menu w
 ## Newly supplied records
 
 The owner confirmed that photos 1–4 are early plans explored by the group. They discuss children’s support, transportation, and Project Forward Food. They are displayed in a collapsed early-planning archive, without presenting their proposed activities, third-party names, or statistics as Our Closet outcomes. The 16-slide Our Closet deck is a planning presentation, not independent evidence of the later collection totals or presentation ranking. The website does not claim that proposed weekly closet maintenance or future events occurred.
+
+## Presentation and completion photographs
+
+The second upload supplies seven additional photographs used on the site: paired shoes, shampoo and wash supplies, deodorant storage, gathered donation bags, a program completion certificate, a speaker, and the team presentation. Photos 4, 5, and 9 overlap the selected records and are omitted. All selected files are copied byte-for-byte. Visible objects are described without estimating new collection totals.
+
+The certificate is explicitly a Certificate of Training for successful completion of the Muncie Youth Leadership Program, issued to Zhuodan Yin. The portfolio uses the owner’s confirmed English name, Zaria Yin. It is not described as a first-place award certificate; the presentation ranking remains an owner-confirmed team result. Presentation photographs do not independently establish that ranking. The earlier Canva deck remains labeled as a planning presentation.
