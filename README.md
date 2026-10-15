@@ -1,6 +1,6 @@
 # Our Closet
 
-A static project portfolio for the Muncie Youth Leadership Program 2025–2026. It documents a five-student collection project supporting two elementary schools in Muncie, Indiana, including the documented Northview delivery.
+A static project portfolio for the Muncie Youth Leadership Program 2025–2026. It documents a six-student collection project supporting two elementary schools in Muncie, Indiana, including the documented Northview delivery.
 
 ## View and edit
 
@@ -67,6 +67,6 @@ The owner further confirmed organizing the donation collection at their own scho
 
 ## CV reconciliation — 2026-10-14
 
-In the CV conversation “制作一页英文申请简历”, the owner explicitly confirmed a five-person team and two receiving elementary schools, and selected the website’s categorized totals: 14 bags of clothing, 8 totes of other essentials, 304 school supply items, and 100 take-home bags. These later corrections supersede the older six-person / single-school summary. The homepage and brief now use those confirmed figures, retain the documented Northview nurse’s-office delivery and the personal North-to-South outreach sequence, and present the program’s winning-project recognition as a team achievement. No beneficiary headcount, South delivery date, or formal Cardinal Closet partnership is added.
+The owner confirmed two receiving elementary schools and selected the categorized totals: 14 bags of clothing, 8 totes of other essentials, 304 school supply items, and 100 take-home bags. During website reconciliation, the owner corrected the CV headcount: the original six-person team was correct. The homepage and brief therefore retain six students and the full original roster. Five members appear in the team activity photograph; its caption distinguishes this from the six-person project team.
 
-The old six-name roster is omitted pending identification of the final five members; no person is guessed or silently singled out for removal. The unchanged five-person team photograph remains. Earlier provenance paragraphs above describe historical source versions, not the final headcount.
+The two-school outcome, categorized team collection totals, documented Northview nurse’s-office delivery, personal North-to-South outreach sequence, and program winning-project recognition are reflected consistently in the homepage and brief. No individual beneficiary count, South delivery date, or formal Cardinal Closet partnership is added.
