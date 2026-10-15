@@ -1,6 +1,6 @@
 # Our Closet
 
-A static project portfolio for the Muncie Youth Leadership Program 2025–2026. It documents a student-led collection project for Northview Elementary in Muncie, Indiana.
+A static project portfolio for the Muncie Youth Leadership Program 2025–2026. It documents a five-student collection project supporting two elementary schools in Muncie, Indiana, including the documented Northview delivery.
 
 ## View and edit
 
@@ -15,7 +15,7 @@ Open `index.html` in a browser. No installation or build step is required. `proj
 
 The Canva presentation is linked in verified view-only mode: https://www.canva.com/design/DAG46skRcU0/0bIpbVwZAxc81pQ6y9BVXQ/view. The provided short link originally opens an editor and is not used publicly.
 
-For GitHub Pages, publish from the `main` branch's root folder using the repository's Pages settings. This preview branch must be merged before an existing main-branch Pages deployment changes. This revision does not change Pages settings. If a custom domain is used, update the `og:image` URL in `index.html`. The original `files.zip` is preserved but is not used by the website.
+For GitHub Pages, publish from the `main` branch's root folder using the repository's Pages settings. The site is live at https://24r14.github.io/Our-Closet/ and Pages publishes the main branch root. If a custom domain is used, update the `og:image` URL in `index.html`. The original `files.zip` is preserved but is not used by the website.
 
 ## Content provenance
 
@@ -64,3 +64,9 @@ Three additional assets are browser screenshots of the supplied designs, cropped
 The fourth upload supplies four unchanged correspondence screenshots. The owner confirmed personally contacting Ball State’s Cardinal Closet and contacting another school after the first school had no space for further donations. These actions are credited to Zaria Yin in the homepage and brief. The Cardinal reply asks for a clearer project outline; the owner’s follow-up describes collection progress and asks about support. The school capacity reply does not establish a second delivery. The fourth screenshot’s sender is not shown, so it is labeled generically as an organization reply offering advice while declining direct participation. No formal partnership, institutional endorsement, additional donation count, or completed second-school delivery is claimed. Relative screenshot dates are not converted to calendar dates.
 
 The owner further confirmed organizing the donation collection at their own school. The owner clarified that teammates initially contacted North and that Zaria personally contacted South after the first school had no room. Public copy uses the owner-confirmed short names North and South for this outreach sequence. The original documented Northview delivery is retained; the exact full school names and a completed South delivery are not inferred.
+
+## CV reconciliation — 2026-10-14
+
+In the CV conversation “制作一页英文申请简历”, the owner explicitly confirmed a five-person team and two receiving elementary schools, and selected the website’s categorized totals: 14 bags of clothing, 8 totes of other essentials, 304 school supply items, and 100 take-home bags. These later corrections supersede the older six-person / single-school summary. The homepage and brief now use those confirmed figures, retain the documented Northview nurse’s-office delivery and the personal North-to-South outreach sequence, and present the program’s winning-project recognition as a team achievement. No beneficiary headcount, South delivery date, or formal Cardinal Closet partnership is added.
+
+The old six-name roster is omitted pending identification of the final five members; no person is guessed or silently singled out for removal. The unchanged five-person team photograph remains. Earlier provenance paragraphs above describe historical source versions, not the final headcount.
